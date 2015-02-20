@@ -1,6 +1,7 @@
 Package.describe({
   name: 'fourq:salesforce',
   summary: 'Salesforce REST Access',
+  git: 'https://github.com/fourq/meteor-pkg-salesforce.git',
   version: '1.0.0'
 });
 
